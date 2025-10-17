@@ -2,7 +2,6 @@
 
 ---
 
-````markdown
 # 🧠 Backend Wizards — HNG Stage 0 Task
 
 Welcome to my submission for the **HNG Internship Stage 0 Task**, titled **“Dynamic Profile Endpoint with External API Integration.”**  
